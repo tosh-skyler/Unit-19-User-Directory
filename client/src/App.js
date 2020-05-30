@@ -15,10 +15,10 @@ function App() {
 			</header>
 			<div className="main-container">
 				<Main />
+				<footer>
+					<Footer />
+				</footer>
 			</div>
-			<footer>
-				<Footer />
-			</footer>
 		</div>
 	);
 }
