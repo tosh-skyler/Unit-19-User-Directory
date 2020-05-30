@@ -14,10 +14,10 @@ function App() {
 				<NavbarComponent />
 			</header>
 			<div className="main-container">
-				<Main />
-				<footer>
-					<Footer />
-				</footer>
+				<div className="container">
+					<Main />
+				</div>
+        <Footer />
 			</div>
 		</div>
 	);
