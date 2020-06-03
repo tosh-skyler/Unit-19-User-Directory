@@ -7,7 +7,7 @@ import Footer from './components/Footer';
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
 
-function App() {
+const App = () => {
 	return (
 		<div className="App">
 			<header>
@@ -17,10 +17,10 @@ function App() {
 				<div className="container">
 					<Main />
 				</div>
-        <Footer />
+				<Footer />
 			</div>
 		</div>
 	);
-}
+};
 
 export default App;
