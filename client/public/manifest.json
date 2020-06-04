@@ -9,19 +9,19 @@
       "purpose": "any maskable"
     },
     {
-      "src": "logo128.png",
+      "src": "icon128.png",
       "type": "image/png",
       "sizes": "128x128",
       "purpose": "any maskable"
     },
     {
-      "src": "logo256.png",
+      "src": "icon256.png",
       "type": "image/png",
       "sizes": "256x256",
       "purpose": "any maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "icon512.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any maskable"
