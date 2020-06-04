@@ -1,11 +1,12 @@
 import React from 'react';
 
 import NavbarComponent from './components/NavbarComponent';
-import Main from './components/Main';
+import EmployeeTable from './components/EmployeeTable';
 import Footer from './components/Footer';
 
 import './App.css';
 import 'bootstrap/dist/css/bootstrap.min.css';
+
 
 const App = () => {
 	return (
@@ -15,7 +16,7 @@ const App = () => {
 			</header>
 			<div className="main-container">
 				<div className="container">
-					<Main />
+					<EmployeeTable />
 				</div>
 				<Footer />
 			</div>
